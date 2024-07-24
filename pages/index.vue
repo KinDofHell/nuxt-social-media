@@ -1,5 +1,5 @@
 <script setup>
-import MainSection from "~/components/sidebar/MainSection.vue";
+import MainSection from "~/components/MainSection.vue";
 
 const loading = ref(false);
 </script>
